@@ -1,0 +1,15 @@
+{
+  "name": "arturmamedov/cf3-theme-start",
+  "type": "library",
+  "description": "Starter Theme for a Cake Front 3 [RDP] Application",
+  "homepage": "https://www.buonsito.it",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Artur Mamedov",
+      "email": "arturmamedov1993@gmail.com",
+      "homepage": "https://github.com/arturmamedov",
+      "role": "Developer"
+    }
+  ]
+}
